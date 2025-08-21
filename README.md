@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+🦆 PomoDucky Pomodoro Timer
+A cute Pomodoro timer desktop widget to help you stay focused and productive, accompanied by a pixelated duck!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+🌟 About This Project
+Ducky Pomodoro Timer is a simple desktop application built with Electron and React. The main idea was to create an unobtrusive focus tool that is always on top of other applications, providing a delightful visual companion for work or study sessions.
 
-In the project directory, you can run:
+This app combines the proven Pomodoro time management technique with a charming duck character to make productivity feel lighter and more engaging.
 
-### `npm start`
+✨ Key Features
+Desktop Widget: Always stays on top of other windows for easy visibility.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Classic Pomodoro Timer: Set custom durations for "Focus" (Session) and "Break" modes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Adjustable Durations: Easily increase or decrease session and break minutes as needed.
 
-### `npm test`
+Interactive Animation: The duck walks during focus sessions and idles during breaks, providing clear visual feedback.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Dynamic Theming: The UI switches between a "Day" and "Night" theme based on the current timer mode.
 
-### `npm run build`
+Sound Notifications: An audible alert signals the end of a session.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Custom Window Controls: Custom-designed minimize and close buttons that fit the app's theme.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+💻 Tech Stack
+This project is built with a modern stack for desktop applications:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Framework: React.js
 
-### `npm run eject`
+Desktop App: Electron.js
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Styling: Plain CSS with Variables
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Icons: Bootstrap Icons & Custom SVGs
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🚀 Installation and Usage
+Want to try this project or contribute? Follow these steps:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone this repository:
 
-## Learn More
+git clone https://github.com/jesslyntrixie/pomoducky-desktop.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Navigate to the project directory:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+cd YOUR_REPOSITORY_NAME
 
-### Code Splitting
+Install the dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+npm install
 
-### Analyzing the Bundle Size
+Run the app in development mode:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+npm start
 
-### Making a Progressive Web App
+🙏 Credits and Acknowledgements
+Duck Spritesheet: Thanks to [caz-creates-games](https://caz-creates-games.itch.io/ducky-2) for the amazing pixel art assets.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Font: VCR OSD Mono by Riciery Leal.

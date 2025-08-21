@@ -66,3 +66,8 @@ Want to try this project or contribute? Follow these steps:
 
 * **Duck Spritesheet**: Thanks to [caz-creates-games](https://caz-creates-games.itch.io/ducky-2) for the amazing pixel art assets.
 * **Font**: [VCR OSD Mono](https://www.dafont.com/vcr-osd-mono.font) by Riciery Leal.
+
+---
+
+## 📥 Download
+You can download the latest installable version of Ducky Pomodoro Timer for Windows from the Releases page.

@@ -1,4 +1,4 @@
-🦆 PomoDucky Pomodoro Timer
+🦆 # PomoDucky Pomodoro Timer
 A cute Pomodoro timer desktop widget to help you stay focused and productive, accompanied by a pixelated duck!
 
 

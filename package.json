@@ -19,6 +19,16 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "build": {
+    "appId": "com.jesslyntrixie.pomoducky",
+    "productName": "PomoDucky",
+    "win": {
+      "icon": "path/ke/folder/icon.ico"
+    },
+    "mac": {
+      "icon": "path/ke/folder/icon.icns"
+    }
+  },
   "scripts": {
     "react-start": "react-scripts start",
     "electron-start": "electron-forge start",

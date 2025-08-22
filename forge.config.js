@@ -9,6 +9,7 @@ const { execSync } = require('child_process');
 module.exports = {
   packagerConfig: {
     asar: true,
+    icon: 'src/icon.ico'
   },
   rebuildConfig: {},
   makers: [
